@@ -115,14 +115,14 @@ Após a execução bem-sucedida do PyInstaller, o executável (`main.exe` ou `At
 
 Abaixo estão algumas capturas de tela da aplicação "Atalho da Pizza", demonstrando suas principais interfaces e funcionalidades:
 
-### Janela Pizza
-![Janela Pizza](Prints/Janela_Pizza.png)
+### Interface Principal
+![Interface Principal](Prints/Interface_Principal.png)
 
 ### Criar Atalho
 ![Criar Atalho](Prints/Criar_Atalho.png)
 
-### Interface Principal
-![Interface Principal](Prints/Interface_Principal.png)
+### Janela Pizza
+![Janela Pizza](Prints/Janela_Pizza.png)
 
 
 
